@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/online-clothing/static/css/main.7aa8b955.chunk.css",
-    "main.js": "/online-clothing/static/js/main.5aeeb61f.chunk.js",
-    "main.js.map": "/online-clothing/static/js/main.5aeeb61f.chunk.js.map",
-    "runtime-main.js": "/online-clothing/static/js/runtime-main.aa07703d.js",
-    "runtime-main.js.map": "/online-clothing/static/js/runtime-main.aa07703d.js.map",
-    "static/js/2.50150ebe.chunk.js": "/online-clothing/static/js/2.50150ebe.chunk.js",
-    "static/js/2.50150ebe.chunk.js.map": "/online-clothing/static/js/2.50150ebe.chunk.js.map",
-    "index.html": "/online-clothing/index.html",
-    "precache-manifest.00eb6870ae9a6529142b07980aa9060e.js": "/online-clothing/precache-manifest.00eb6870ae9a6529142b07980aa9060e.js",
-    "service-worker.js": "/online-clothing/service-worker.js",
-    "static/css/main.7aa8b955.chunk.css.map": "/online-clothing/static/css/main.7aa8b955.chunk.css.map",
-    "static/js/2.50150ebe.chunk.js.LICENSE.txt": "/online-clothing/static/js/2.50150ebe.chunk.js.LICENSE.txt",
-    "static/media/crown.ed28accb.svg": "/online-clothing/static/media/crown.ed28accb.svg",
-    "static/media/shopping-bag.30f07071.svg": "/online-clothing/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/react-online-clothing/static/css/main.7aa8b955.chunk.css",
+    "main.js": "/react-online-clothing/static/js/main.45eedecc.chunk.js",
+    "main.js.map": "/react-online-clothing/static/js/main.45eedecc.chunk.js.map",
+    "runtime-main.js": "/react-online-clothing/static/js/runtime-main.c03ac9ae.js",
+    "runtime-main.js.map": "/react-online-clothing/static/js/runtime-main.c03ac9ae.js.map",
+    "static/js/2.6f0fae29.chunk.js": "/react-online-clothing/static/js/2.6f0fae29.chunk.js",
+    "static/js/2.6f0fae29.chunk.js.map": "/react-online-clothing/static/js/2.6f0fae29.chunk.js.map",
+    "index.html": "/react-online-clothing/index.html",
+    "precache-manifest.c5b9aa2fd8fbe5caa29624e5152c0a57.js": "/react-online-clothing/precache-manifest.c5b9aa2fd8fbe5caa29624e5152c0a57.js",
+    "service-worker.js": "/react-online-clothing/service-worker.js",
+    "static/css/main.7aa8b955.chunk.css.map": "/react-online-clothing/static/css/main.7aa8b955.chunk.css.map",
+    "static/js/2.6f0fae29.chunk.js.LICENSE.txt": "/react-online-clothing/static/js/2.6f0fae29.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/react-online-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/react-online-clothing/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa07703d.js",
-    "static/js/2.50150ebe.chunk.js",
+    "static/js/runtime-main.c03ac9ae.js",
+    "static/js/2.6f0fae29.chunk.js",
     "static/css/main.7aa8b955.chunk.css",
-    "static/js/main.5aeeb61f.chunk.js"
+    "static/js/main.45eedecc.chunk.js"
   ]
 }

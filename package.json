@@ -1,8 +1,8 @@
 {
-  "name": "online-shopping",
+  "name": "react-online-clothing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tanyasinha.github.io/online-clothing",
+  "homepage": "https://tanya-sinha.github.io/react-online-clothing",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
