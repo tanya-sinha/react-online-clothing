@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/tanya/TS/REACT/Projects/online-clothing/src/components/directory/directory.style.scss"],"names":[],"mappings":"AAAA,gBACI,UAAW,CACX,YAAa,CACb,cAAe,CACf,6BAA8B","file":"4.4b3b276a.chunk.css","sourcesContent":[".directory-menu {\n    width: 100%;\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-between;\n  }\n  "]}

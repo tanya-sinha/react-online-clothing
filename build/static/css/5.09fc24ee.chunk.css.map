@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/tanya/TS/REACT/Projects/online-clothing/src/components/collection-overview/collection-overview.style.scss"],"names":[],"mappings":"AAAA,sBACI,YAAa,CACb,qBAAsB","file":"5.09fc24ee.chunk.css","sourcesContent":[".collections-overview {\n    display: flex;\n    flex-direction: column;\n  }\n  "]}
