@@ -33,8 +33,7 @@ const App = ({checkUserSession,currentUser}) => {
     <div>
       <GlobalStyle />    
       <Header />
-      <ErrorBoundary>      
-       
+      <ErrorBoundary>             
           <Suspense fallback={<Spinner />}>
           <Switch>
               <Route exact path="/" component={HomePage} />
@@ -43,7 +42,8 @@ const App = ({checkUserSession,currentUser}) => {
               <Route
                 exact
                 path='/signin'
-                render={() =>
+                render={
+                  () =>
                   this.props.currentUser ? (
                     <Redirect to='/' />
                   ) : (
@@ -53,8 +53,7 @@ const App = ({checkUserSession,currentUser}) => {
               /> 
               <Route component={Page404} />
               </Switch> 
-            </Suspense>    
-           
+            </Suspense>               
       </ErrorBoundary>
     </div>
   );
