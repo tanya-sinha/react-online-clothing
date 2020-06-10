@@ -48,8 +48,7 @@ const App = ({checkUserSession,currentUser}) => {
                     <Redirect to='/' />
                   ) : (
                     <SignInAndSignUpPage />
-                  )EN ROUTE AND ON TIME
-                  Arriving in 22 minutes
+                  )
                 }
               /> 
               <Route component={Page404} />
